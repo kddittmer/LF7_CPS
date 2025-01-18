@@ -1,0 +1,12 @@
+[submodule "Arduino_Sketches"]
+	path = Arduino_Sketches
+	url = https://github.com/kddittmer/Arduino_Sketches.git
+[submodule "LT"]
+	path = LT
+	url = https://github.com/kddittmer/LT.git
+[submodule "PC"]
+	path = PC
+	url = https://github.com/kddittmer/PC.git
+[submodule "Raspi"]
+	path = Raspi
+	url = https://github.com/kddittmer/Raspi.git
