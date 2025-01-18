@@ -1,4 +1,4 @@
-# Lernfeld07
+# LF7_CPS
 Sketches und Python Code für Lernfeld 7<br>
 Hier werden Python Programme und Arduino-Sketches für das Lernfeld 7 abgelegt.<br>
 Derzeit werden Python Programme für den Raspi, den Laptop und den PC hier gehalten.<br>
