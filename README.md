@@ -1,8 +1,4 @@
-# LF7_CPS
-Daten für Lernfeld 7
-Hier werden SubRepositorys für Arduino Sketches, sowie Python Programme des Raspi,<br>
-PC und dem LT versioniert werden.<br><br>
-
+# Lernfeld07
 Sketches und Python Code für Lernfeld 7<br>
 Hier werden Python Programme und Arduino-Sketches für das Lernfeld 7 abgelegt.<br>
 Derzeit werden Python Programme für den Raspi, den Laptop und den PC hier gehalten.<br>
@@ -31,4 +27,3 @@ Dabei geht es darum, dass der Host den Arduino nach werten befragt, woraufhin<br
 der Arduino antwortet. Das ist z.B erforderlich, wenn man vom Host etwas auf dem<br>
 Arduino auslösen möchte. Im Rahmen eines CPS wäre es aufgrund von abgefragten<br>
 SensorwertenBerechnungen entsprechende Aktoren zu steuern<br>
-
