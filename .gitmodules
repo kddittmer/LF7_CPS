@@ -8,5 +8,5 @@
 	path = PC
 	url = https://github.com/kddittmer/PC.git
 [submodule "Raspi"]
-	path = Raspi
-	url = https://github.com/kddittmer/Raspi.git
+    path = Raspi
+    url = https://github.com/kddittmer/Raspi.git
